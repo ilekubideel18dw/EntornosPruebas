@@ -6,6 +6,8 @@ public class EntornosPrueba {
 		System.out.println("Hey there, I am using Whatsapp.");
 		System.out.println("Disponible");
 		System.out.println("Sin bateria");
+		System.out.println("Ocupado");
+		System.out.println("Jefry esta Escribiendo...");
 	}
 	
 }
